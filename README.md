@@ -25,6 +25,6 @@ This public version includes only my personal contributions and related modules.
 Assets, libraries, and frameworks provided by DigiPen are excluded for copyright reasons.
 
 ## Controls
--Hold mouse button to charge melee attaack.
--Q to quit at any time during level play.
--X to toggle time stop during play, 1 uses per 12 seconds.
+- Hold mouse button to charge melee attaack.
+- Q to quit at any time during level play.
+- X to toggle time stop during play, 1 uses per 12 seconds.
