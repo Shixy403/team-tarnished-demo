@@ -1,0 +1,11 @@
+#ignore EVERYTHING
+Tarnished/*
+#EXCEPT .gitignore, code, assets folder, README
+!.gitignore
+!/Tarnished/Assets
+!README.txt
+
+!Tarnished/Tarnished/
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
